@@ -1,0 +1,8 @@
+govapi-docs/
+├── index.md (API overview)
+├── endpoints/
+│   ├── citizens.md
+│   ├── permits.md
+│   └── payments.md
+└── assets/
+    └── sample-requests.json
